@@ -1,0 +1,12 @@
+.navBtnList{
+    display: flex;
+    flex-direction: column;
+    padding: 35px 0 10px 20px;
+}
+.navBtnListTitle{
+    font-style:italic;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: rgb(43, 43, 43);
+    margin-bottom: 15px;
+}
